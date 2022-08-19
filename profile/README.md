@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/1mWtepy.png" alt="Logo" height="25"> PC Builder Bangladesh
 <p align="center">PC Builder Bangladesh is the first video based technology  podcast in Bangladesh. And is a home to some extremely talented programmers and designers.</p>
-<img src="https://i.imgur.com/U8lE2Wf.gifv">
+<img src="https://i.imgur.com/k7oY4is.png">
 <p align="center">We create video regarding gaming, tech news, tutorials and pc builds. You can learn about gaming, gaming pc, pc building tutorials and other pc issues. Apart from these we also unbox and review pc components and other tech gadgets. You can join local and international tech gossips as well.</p>
 
 <p align="center">
